@@ -4,6 +4,6 @@ time.sleep(4)
 
 count = 0
 while count <=10:
-    pyautogui.typewrite("virual" + str(count))
+    pyautogui.typewrite("text here" + str(count))
     count++
     pyautogui.press("enter")
