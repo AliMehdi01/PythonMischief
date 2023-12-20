@@ -8,12 +8,12 @@ This Python script demonstrates the use of the `pyautogui` library to automate t
 
 Before running the script, make sure you have the necessary library installed.
 
-```bash
+``` bash
 
 sudo apt-get update 
 sudo apt-get install git python python3
-git clone https://github.com/AliMehdi01/PythonMischief.git
-cd PRankpython
+git clone https://github.com/Binary-Assassin/Mischief.git
+cd Mischief
 sudo pip install -r requirements.txt
 ```
 
